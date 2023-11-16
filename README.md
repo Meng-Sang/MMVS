@@ -23,8 +23,11 @@ Dataset:
   +  ...
 
 vid: Indicates the number of the video sequence.
+
 vi: The folder where the visible video sequences are stored.
+
 ir: The folder where the infrared video sequences are stored.
+
 ir_label: The folder where the aligned infrared video sequences are stored.
 
 # Download
