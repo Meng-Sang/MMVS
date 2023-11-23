@@ -32,7 +32,7 @@ ir_label: The folder where the aligned infrared video sequences are stored.
 
 # Download
 We have posted at Google Drive.
-+ [Google Drive]([https://drive.google.com/drive/folders/1wJDRmsSmdtfOV5CsfhyfXFsR__nYilcl?usp=drive_link](https://drive.google.com/drive/folders/1wJDRmsSmdtfOV5CsfhyfXFsR__nYilcl?usp=drive_link))
++ [Google Drive](https://drive.google.com/drive/folders/1wJDRmsSmdtfOV5CsfhyfXFsR__nYilcl)
 + [Baidu Cloud](https://pan.baidu.com/s/1hQOMRwfEbBV8WLELzhsFJQ?pwd=ms2l)
 
 # Result
