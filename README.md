@@ -36,5 +36,6 @@ We have posted at Google Drive.
 + [Baidu Cloud](https://pan.baidu.com/s/1hQOMRwfEbBV8WLELzhsFJQ?pwd=ms2l)
 
 # Result
-The effect of our algorithm's registration and fusion in this dataset will be published in a subsequent collation.
+Please refer to the [VRFF](https://github.com/Meng-Sang/VRFF.git) project for the implemented code and the final results achieved.
+
 
