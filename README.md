@@ -35,7 +35,23 @@ We have posted at Google Drive.
 + [Google Drive](https://drive.google.com/drive/folders/1wJDRmsSmdtfOV5CsfhyfXFsR__nYilcl)
 + [Baidu Cloud](https://pan.baidu.com/s/1hQOMRwfEbBV8WLELzhsFJQ?pwd=ms2l)
 
-# Result
+# Show results
 Please refer to the [VRFF](https://github.com/Meng-Sang/VRFF.git) project for the implemented code and the final results achieved.
 
+### Related Works:
+
+The related project involved in this work is as follows:
+* [VRFF](https://github.com/Meng-Sang/VRFF.git)
+
+
+### Citing
+```shell
+@inproceedings{sang2024vrff,
+  title={VRFF: Video Registration and Fusion Framework},
+  author={Meng Sang, Housheng Xie and Yang Yang},
+  booktitle={Proceedings of 2024 International Joint Conference on Neural Networks (IJCNN)},
+  year={2024},	
+  organization={IEEE (Institute of Electrical and Electronics Engineers)}
+}
+```
 
