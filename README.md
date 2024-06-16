@@ -1,5 +1,5 @@
 # MMVS Dataset 
-The MMVS Dataset is a dataset of infrared visible video sequences for nighttime road scenes.The MMVS dataset is organized from the [FLIR](https://www.flir.com/oem/adas/adas-dataset-form/) dataset and contains the challenges of both very low light and glare, and is intended to facilitate research in the fields of computer vision and image processing.
+The MMVS Dataset is a dataset of infrared visible video sequences for nighttime road scenes. The MMVS dataset is organized from the [FLIR](https://www.flir.com/oem/adas/adas-dataset-form/) dataset and contains the challenges of both very low light and glare, and is intended to facilitate research in the fields of computer vision and image processing.
 
 # Dataset Description
 The MMVS dataset contains six groups of video sequences, each containing infrared video sequences, visible video sequences, and aligned infrared video sequences, and each type of video sequence (visible video sequences, infrared video sequences, or aligned infrared video sequences) contains 2151 images. The features of the infrared and visible video sequences include:
